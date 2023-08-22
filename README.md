@@ -11,11 +11,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
+ - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
-- [👥 Authors](#authors)
+ - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -73,7 +73,7 @@ Clone this repository to your desired folder:
 
 To run the project, execute the commands detailed inside:
 
-[schema_based_on_diagram.sql](./schema_based_on_diagramsql) to create clinics Data Base & and its tables.
+[schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create clinics Data Base & and its tables.
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -101,7 +101,7 @@ To run the project, execute the commands detailed inside:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/HFG43/clinic_db/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
